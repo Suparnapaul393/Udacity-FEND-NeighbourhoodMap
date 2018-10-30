@@ -1,0 +1,101 @@
+body {
+  font-family: "Lato", sans-serif;
+  margin: 0;
+}
+
+.sidenav {
+  height: 100%;
+  width: 0;
+  position: fixed;
+  z-index: 1;
+  top: 0;
+  left: 0;
+  background-color: #111;
+  overflow-x: hidden;
+  transition: 0.5s;
+  padding-top: 60px;
+}
+
+.sidenav a {
+  padding: 8px 8px 8px 8px;
+  text-decoration: none;
+  font-size: 16px;
+  color: white;
+  display: block;
+  transition: 0.3s;
+}
+
+.sidenav a:hover {
+  color: #778899;
+}
+
+.sidenav .closebtn {
+  position: absolute;
+  top: 0;
+  right: 25px;
+  font-size: 36px;
+  margin-left: 50px;
+}
+
+.burgerIcon {
+  font-size: 26px;
+  cursor: pointer;
+  color: rgb(3, 144, 190);
+  position: absolute;
+  height: 5%;
+  width: 100%;
+  overflow: auto;
+  background-color: #000;
+  margin: 0;
+  padding-left: 4px;
+}
+
+#fullContent {
+  transition: margin-left .5s;
+}
+
+#mapContent {
+  position: absolute;
+  height: 95%;
+  width: 100%;
+  bottom: 0;
+  overflow: auto;
+}
+
+@media screen and (max-height: 450px) {
+.sidenav {padding-top: 15px;}
+.sidenav a {font-size: 18px;}
+}
+
+.search {
+  box-sizing: border-box;
+  border: 2px solid rgb(3, 144, 190);
+  border-radius: 4px;
+  font-size: 11px;
+  background-color: white;
+  background-position: 10px 10px; 
+  background-repeat: no-repeat;
+  padding: 8px 8px 8px 8px;
+  margin-left: 8px;
+}
+
+.filterButton {
+  background-color: rgb(3, 144, 190); 
+  color: white; 
+  border: 2px solid rgb(3, 144, 190);
+  border-radius: 4px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 11px;
+  margin: 4px 6px;
+  -webkit-transition-duration: 0.4s; /* Safari */
+  transition-duration: 0.4s;
+  cursor: pointer;
+  padding: 8px 8px 8px 8px;
+}
+
+.filterButton:hover {
+  background-color: white;
+  color: black;
+}

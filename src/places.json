@@ -1,0 +1,58 @@
+[
+    {
+        "title": "Irish Whiskey Museum",
+        "description": "Everything whiskey related, and a tasting, at the Irish Whiskey Museum in Dublin.",
+        "latitude": 53.344156,
+        "longitude": -6.259554,
+        "formattedAddress": ""
+    },
+    {
+        "title": "Phoenix Park",
+        "description": "Visit the the largest enclosed public park in any capital city in Europe.",
+        "latitude": 53.355882,
+        "longitude": -6.329813,
+        "formattedAddress": ""
+    },
+    {
+        "title": "Guinness Storehouse",
+        "description": "Guinness is synonymous with Ireland and no visit to Dublin is complete without a trip to the Guinness Storehouse.",
+        "latitude": 53.341874,
+        "longitude": -6.286709,
+        "formattedAddress": ""
+    },
+    {
+        "title": "Irish Museum of Modern Art",
+        "description": "Ireland's museum for modern and contemporary art is based in Dublin.",
+        "latitude": 53.342917,
+        "longitude": -6.300048,
+        "formattedAddress": ""
+    },
+    {
+        "title": "St Stephens Green",
+        "description": "St Stephen's Green Park is a historical park and garden, located in the centre of Dublin city.",
+        "latitude": 53.338174,
+        "longitude": -6.259119,
+        "formattedAddress": ""
+    },
+    {
+        "title": "Dublin Zoo",
+        "description": "Dublin Zoo is a must see experience and the perfect day out for families, friends, couples and those visiting Dublin.",
+        "latitude": 53.356194,
+        "longitude": -6.305290,
+        "formattedAddress": ""
+    },
+    {
+        "title": "The National Wax Museum Plus",
+        "description": "The National Wax Museum Dublin is a truly interactive visitor attraction.",
+        "latitude": 53.346586,
+        "longitude": -6.258788,
+        "formattedAddress": ""
+    },
+    {
+        "title": "Christ Church Cathedral",
+        "description": "Christ Church Cathedral is Dublin's oldest building, a leading visitor attraction and a place of pilgrimage for almost 1,000 years.",
+        "latitude": 53.343513,
+        "longitude": -6.271060,
+        "formattedAddress": ""
+    }
+]
